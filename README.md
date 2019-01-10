@@ -4,11 +4,11 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 * fer2013 emotion classification test accuracy: 69.2%.
 
 # Comparison of the two face dection methods
-
+* Original Image
 ![alt tag](images/test3.jpg)
-
+* OpenCV's own Harr Classifier
 ![alt tag](images/test3_HarrClassifier.png)
-
+* Mtcnn
 ![alt tag](images/test3_Mtcnn.png)
 
 
