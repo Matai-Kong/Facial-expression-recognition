@@ -6,16 +6,22 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 # Comparison of the two face dection methods
 
 ![alt tag](images/test3.jpg)
+
+![alt tag](images/test3_HarrClassifier.png)
+
 ![alt tag](images/test3_Mtcnn.png)
 
-![alt tag](images/test3_OpenCV's own Harr classifier.png)
 
 # Emotion/gender examples:
 
 ##single images:
+
 ![alt tag](images/test_image.jpg)
+
 ![alt tag](images/test_image_fer.png)
+
 ##video_captures:
+
 ![alt tag](images/1.png)
 ...
 ![alt tag](images/Multiperson.png)
